@@ -2,7 +2,7 @@ Hi there 👋
 I'm Nick, aka SDreadnoug
 
 - 🔭 I’m currently working on completing TripleTen's full stack developer course.
-- 🌱 I’m currently learning advanced JavaScript logic.
+- 🌱 I’m currently learning how to build apps in React.
 - 👯 I’m looking to collaborate on projects that help make a difference.
 - 💬 Ask me about how I transitioned into development!
 - 📫 Discord: @sdreadnoug / email: miltnr01@gmail.com
