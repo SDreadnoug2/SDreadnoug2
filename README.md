@@ -1,11 +1,5 @@
-Hi there 👋
 I'm Nick, aka SDreadnoug
-
-- 🔭 I’m currently working on completing TripleTen's full stack developer course.
-- 🌱 I’m currently learning how to build apps in React.
-- 👯 I’m looking to collaborate on projects that help make a difference.
-- 💬 Ask me about how I transitioned into development!
-- 📫 Discord: @sdreadnoug / email: miltnr01@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've been a video editor my whole professional life!
-
+- I'm always looking to create, whether that be through video, or coding!
+- Currently starting my capstone project at TripleTen
+- Versed in React, native JavaScript, HTML and CSS.
+- I'm learning Lua and C++ in my freetime to help in my pursuit of game development.
