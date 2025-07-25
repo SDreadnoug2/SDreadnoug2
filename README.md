@@ -1,4 +1,4 @@
 I'm Nick, aka SDreadnoug
-- Versed in React, native JavaScript, HTML and CSS.
-- Dabbled in C#, Lua, C++, C, Python, and SQL.
-- Currently trying to develop my own web apps.
+- Java, React, JavaScript, HTML and CSS and Python
+- Practicing full-stack web dev and game dev.
+- Currently working as a video editor.
